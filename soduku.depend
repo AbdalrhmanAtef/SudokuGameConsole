@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1664058387 source:g:\programming project\soduku\soduku\sudoko.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1664056451 source:g:\programming project\soduku\soduku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"sudoko.h"
+
+1664055030 g:\programming project\soduku\soduku\sudoko.h
+	<time.h>
+
+1664029819 source:g:\programming project\soduku\soduku\intro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1664029819 g:\programming project\soduku\soduku\intro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
